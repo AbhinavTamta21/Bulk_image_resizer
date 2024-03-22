@@ -1,6 +1,4 @@
-Below is a template for a GitHub README.md file for your Image Converter application:
 
----
 
 # Image Converter
 
